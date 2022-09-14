@@ -2,7 +2,7 @@
 
 |Navn|Url|selvevaluering|
 |---|---|---|
-|Christian|https://github.com/Christiata/IND-Repository.git|
+|Christian|https://github.com/Christiata/IND-Repository.git| https://github.com/Christiata/6b-repo/blob/01a8c5e1c6b86229edf6f20ae84cd5f0a8429e43/selvevaluering%20Chris%20github
 |William R Tverre|https://github.com/Christiata/6b-repo/tree/WilliamRT|https://github.com/Christiata/6b-repo/blob/WilliamRT/selvevaulering%20william
 |Viktor Johan Glenne Kalhovd|https://github.com/ViktorJGK/Viktor-repository|https://github.com/Christiata/6b-repo/blob/ViktorJGK/Selvevaluering
 |Ajdin Smajic|https://github.com/Ajdin15/IND-repository|https://github.com/Christiata/6b-repo/blob/ajdin-smajic/selvevaluering
