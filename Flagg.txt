@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html land="no-NB">
+<head>
+	<meta charset="utf-8">
+	<title> Nederlansk flagg </title>
+	<style>
+	.blueflagg {
+		background-color: #1E4785;
+		width: 450px;
+		height: 100px;
+		margin-left: 0;
+		margin-right: auto;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	.whiteflagg {
+		background-color: #FFFFFF;
+		width: 450px;
+		height: 100px;
+		margin-left: 0;
+		margin-right: auto;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	.redflagg {
+		background-color: #A91F32;
+		width: 450px;
+		height: 100px;
+		margin-left: 0;
+		margin-right: auto;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	</style>
+</head>
+
+	<body>
+		<p class="redflagg"> </p>
+		<p class="whiteflagg"> </p>
+		<p class="blueflagg"> </p>
+</body>
+		
+
