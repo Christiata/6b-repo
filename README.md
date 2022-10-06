@@ -8,3 +8,7 @@
 |Ajdin Smajic|https://github.com/Ajdin15/IND-repository|https://github.com/Christiata/6b-repo/blob/ajdin-smajic/selvevaluering
 
 Etter å ha levert Github oppgaven 8. september fikk vi tilbakemelding fra mentor hvor veldig mange ting var feil. 14. september jobbet vi med tilbakemeldingen. Vi har hatt mange utfordringer som f.eks merge, pull request. vi fikk det til heldigvis med bra hjelp av Vetle
+
+
+
+oppgave har vært utfordrende fordi vi skulle slå sammen gruppe 6b og 1a og en av gruppe medlemmene våres slutta. også den gruppemedlemmet var den som laga repository som gjorde vanskelig for oss å lage projects, også var vi litt dårlig på å planlegge denne oppgaven på grunn av gruppe sammenslåinga som gjorde det nedprioritert. 
