@@ -11,4 +11,4 @@ Etter å ha levert Github oppgaven 8. september fikk vi tilbakemelding fra mento
 
 
 
-oppgave har vært utfordrende fordi vi skulle slå sammen gruppe 6b og 1a og en av gruppe medlemmene våres slutta. også den gruppemedlemmet var den som laga repository som gjorde vanskelig for oss å lage projects, også var vi litt dårlig på å planlegge denne oppgaven på grunn av gruppe sammenslåinga som gjorde det nedprioritert. 
+oppgave flaggoppgave (6.10) har vært utfordrende fordi vi skulle slå sammen gruppe 6b og 1a og en av gruppe medlemmene våres slutta. også den gruppemedlemmet var den som laga repository som gjorde vanskelig for oss å lage projects, også var vi litt dårlig på å planlegge denne oppgaven på grunn av gruppe sammenslåinga som gjorde det nedprioritert. 
